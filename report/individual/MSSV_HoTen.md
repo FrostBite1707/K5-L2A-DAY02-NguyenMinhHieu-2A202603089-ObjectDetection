@@ -4,10 +4,10 @@
 
 ## 1. Thông tin học viên
 
-- Họ tên:
-- MSSV:
-- Email:
-- Lớp:
+- Họ tên: Nguyễn Minh Hiếu
+- MSSV: 2A202603089
+- Email: hieunguyenminh0412@gmail.com
+- Lớp: 2B-LAB-E402
 - Link repo bài làm:
 - Link Colab đã chạy:
 
